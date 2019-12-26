@@ -1,0 +1,21 @@
+https://github.com/midorei2019/MoneyMeExam
+source: https://www.youtube.com/watch?v=HVsySz-h9r4
+1. git --version
+
+workflow
+1. git branch subtract
+2. git checkout subtract
+3. git status
+4. git add -A
+5. git commit -m "subtract"
+6. git push -u origin subtract
+7. git checkout master
+8. git pull origin master
+9. git merge subtract
+10. git push origin master
+
+git account
+username: vpb1981
+email: freenetdeveloper2019@gmail.com
+pw: judith2019
+
